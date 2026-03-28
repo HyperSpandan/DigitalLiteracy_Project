@@ -30,13 +30,12 @@ digital-literacy-project/
 │   └── Kaggle_Profile.png             ← Kaggle profile screenshot
 │
 ├── task-3-platforms/
-│   ├── digital-literacy-quiz.md       ← Google Form quiz questions
-│   ├── hackerrank-challenge.png       ← Completed HackerRank challenge screenshot
-│   ├── google-form.png                ← Google Form screenshot
-│   └── google-sheet-responses.png    ← Linked Google Sheet screenshot
+│   ├── CodeChef.png       ← Completed CodeChef challenge screenshot
+│   ├── Google_Form.png                ← Google Form screenshot
+│   └── Google_Sheet.png    ← Linked Google Sheet screenshot
 │
 ├── task-4-email-etiquette/
-│   ├── emails.md                      ← Two professional email drafts
+│   ├── Emails.pdf                      ← Two professional email drafts
 │   └── social-media-checklist.md     ← Social Media Do's and Don'ts
 │
 └── task-5-cybercrime/
@@ -69,10 +68,10 @@ Wrote a 240-word case study on UPI Payment Fraud detailing how it occurs step-by
 
 | Platform | Link |
 |----------|------|
-| GitHub Profile | [github.com/spandandhage](https://github.com/spandandhage) |
-| LinkedIn Profile | [linkedin.com/in/spandandhage](https://linkedin.com/in/spandandhage) |
-| Kaggle Profile | [kaggle.com/spandandhage](https://kaggle.com/spandandhage) |
-| Digital Literacy Quiz (Google Form) | [Add your form link here] |
+| GitHub Profile | [github.com/HyperSpandan](https://github.com/HyperSpandan) |
+| LinkedIn Profile | [linkedin.com/in/spandandhage07](https://linkedin.com/in/spandandhage07) |
+| Kaggle Profile | [kaggle.com/spandandhage07](https://kaggle.com/spandandhage07) |
+| Digital Literacy Quiz (Google Form) | https://forms.gle/hBvHhQwDSN58zhCk8 |
 
 ---
 
