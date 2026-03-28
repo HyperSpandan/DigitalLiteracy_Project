@@ -22,14 +22,12 @@ digital-literacy-project/
 │   └── Project_Report.pdf             ← Full written report (all 5 tasks)
 │
 ├── task-1-presentation/
-│   ├── digital_literacy_infographic.html   ← Infographic (HTML format)
-│   └── infographic-screenshot.png          ← Exported screenshot
+│   └── Digital Literacy infographic.png          ← Exported screenshot
 │
 ├── task-2-portfolio/
-│   ├── reflection.md                  ← Portfolio reflection & platform notes
-│   ├── github-profile.png             ← GitHub profile screenshot
-│   ├── linkedin-profile.png           ← LinkedIn education section screenshot
-│   └── kaggle-profile.png             ← Kaggle profile screenshot
+│   ├── Github_Profile.png             ← GitHub profile screenshot
+│   ├── Linkedin_Profile.png           ← LinkedIn education section screenshot
+│   └── Kaggle_Profile.png             ← Kaggle profile screenshot
 │
 ├── task-3-platforms/
 │   ├── digital-literacy-quiz.md       ← Google Form quiz questions
